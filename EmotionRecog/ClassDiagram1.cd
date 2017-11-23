@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmotionRecog.CognitiveActivity" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAEACAEIAAAAAAwAAABAAA=</HashCode>
+      <FileName>CognitiveActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.MainActivity" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Resource" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.CogTask.EmotionTask" Collapsed="true">
+    <Position X="0.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAKoAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAQ=</HashCode>
+      <FileName>CogTask\EmotionTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.CogTask.FaceTask">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAoAAAAAAAAAAAAAEAAAAAAEAAEAAAABAAAQ=</HashCode>
+      <FileName>CogTask\FaceTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Helper.EmotionFunction" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\EmotionFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Helper.FaceFunction">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\FaceFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.EmotionModel" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Emotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.EFaceRectangle" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAgAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Emotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.EScores" Collapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAABEAAAAIAAACBAAAgAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\Emotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.FaceRectangle">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAgAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.FacialHair">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.HeadPose">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAgAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.FaceAttributes">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAACAAEAAAAAAAAAAAAAAEAAAICAAAAA=</HashCode>
+      <FileName>Model\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmotionRecog.Model.FaceModel">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
